@@ -3,7 +3,7 @@
 # Here are some projects I have worked on, both in-class and on my own time. 
 
 # BIOS512
-  From my BIOS512 Final in 2023 (listed under 'final_project(1)' in BIOS512 folder), I decided to use my interest in sports to exhibit my use of R packages such as tidyverse, dplyr, and forcats packages to analyze raw data files, organizing, filtering, and analyzing 380 matches from the 2021-2022 Premier League season. I then used different visualization forms of key match statistics from data file.
+  From my BIOS512 Final in 2023 (listed under 'final_project(1)' in BIOS512 folder), I decided to use my interest in sports to exhibit my use of R packages such as tidyverse, dplyr, and forcats packages to analyze raw data files, organizing, filtering, and analyzing 380 matches from the 2021-2022 Premier League season. I then used different visualization forms of key match statistics from data file. Final Visualization can be see when opening 'github.dev'.
 
 # INLS541
   For my INLS541 final project in 2024 (listed under 'Analyzing World Economics - Tableau 2024'), I used Tableau to gain insight into predictors that could affect bigger picture economic factors such as GDP. I also visualized economic factors to answer and explain potential cause-and-effect questions.
