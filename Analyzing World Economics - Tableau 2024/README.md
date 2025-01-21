@@ -18,4 +18,6 @@ My first visualization looked at the relationship between unemployment rates and
 
 My final visualization came in the form of multiple line graphs overlapping each other. Similar to the unemployment/corruption visual, I used dual axes to map the two variables of GDP and Purchasing Power. From this visualization, it is clear to see that GDP and purchasing power are correlated, and that a higher GDP means more purchasing power for a country’s citizens.
 
+# Limitations and Final Comments
+
 One of the biggest limitations was the amount of missing data across files, which included missing countries in certain files, such as the Tourism, which only included 42 countries, with South America, Africa, and Asia missing most or all information. This made it harder to compare across CSV files with smaller datasets that could have been interesting to see. Personally, I found the data in general was quite vague, without  much room to explore factors such as years or the age groups of the population. Finally, the data collected was last updated in 2022, meaning it may only be reflective on statistics during and after the COVID-pandemic, as well as significant events that could greatly impact the variables of the dataset such as wars, natural disasters, etc. 
