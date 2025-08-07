@@ -10,6 +10,11 @@
 
   From the “World Economic Data'' dataset on Kaggle, we are given 5 csv files named corruption.csv (containing the variables of annual_income and corruption_index), cost of living.csv (containing the variables of cost_index, monthly_income, and purchasing_power), richest_countries.csv (containing gdp_per_capita), tourism.csv (containing tourism_in_millions, receipts_in_billions, receipts_per_tourist, percentage_of_gdp), and unemployment.csv, with unemployment_rate. In my project using Tableau, I created 5 visualizations, the first 3 of them being exploratory with 2 “final” visualizations that related variables to each other. By producing my exploratory data first, I hoped to gain insight into predictors that could affect bigger picture economic factors such as GDP. 
 
+# CHIP690: Advanced Statistical Analysis and Quantitative Methods in Healthcare
+  Mini-Project Series: Using SPSS, applied multiple regression, logistic regression, mediation analysis, and exploratory factor analysis to uncover key insights on 
+patient outcomes and treatment effects. 
+  Strengthened proficiency in data modeling, statistical diagnostics, and healthcare analytics.
+
 # Time Management
 
 *IN PROGRESS
