@@ -17,7 +17,6 @@ patient outcomes and treatment effects.
 
 # Time Management
 
-*IN PROGRESS
 ⏰ Time Management & Productivity Analysis
 
 A data analysis and machine learning project exploring how daily habits—like work hours, screen time, and sleep—impact productivity.
